@@ -209,9 +209,9 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
 .field-error input:not([type="checkbox"]):not([type="radio"]):-ms-input-placeholder { color: rgb(204, 86, 40) }
 
 .workflow-create-profile {
-    padding-top: 15px;
-    position: fixed;
-    top: 0;
+    padding-top: 7px;
+    position: relative;
+    top: -140px;
     background-color: #fff;
 }
 
@@ -474,10 +474,4 @@ body {
 
 .section-cancel {
     display: none !important;
-}
-
-/* hacks */
-#close {
-  position: fixed;
-
 }
