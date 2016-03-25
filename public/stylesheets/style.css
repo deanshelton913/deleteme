@@ -117,13 +117,14 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
 }
 
 .btn-primary {
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     /* background-color: rgb(224, 234, 244); */
     /* color: rgb(52, 144, 189); */
     color: #fff;
+    background-color: #2D97D3;
 }
 .btn-primary:hover {
-    background-color: rgb(199, 209, 219);
+    opacity: 0.7;
 }
 .block-update-text,
 .block-value-proposition,
