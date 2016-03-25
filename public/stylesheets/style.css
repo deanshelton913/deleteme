@@ -142,10 +142,6 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
     font-size: 26px;
 }
 
-.block-forgot-password-username p {
-    text-align: right;
-}
-
 .block-forgot-password-username span,
 .block-forgot-password-username a {
     color: rgb(64, 141, 170);
