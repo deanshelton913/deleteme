@@ -483,3 +483,6 @@ body {
   margin-bottom:15px;
 }
 
+body .wapper {
+  margin-top: 0;
+}
