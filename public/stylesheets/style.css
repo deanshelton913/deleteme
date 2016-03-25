@@ -238,6 +238,7 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
 
 body .wrapper {
     overflow: hidden;
+    margin: 0;
 }
 .wrapper.content {
     box-shadow: none;
