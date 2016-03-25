@@ -160,7 +160,7 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 145px;
+    height: 122px;
     margin: 0;
     margin-bottom: 18px;
 }
