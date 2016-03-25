@@ -430,7 +430,7 @@ body {
     padding-right: 25px;
 }
 
-.workflow-create-profile .title:after {
+.workflow-create-profile > .title:after {
     content: "Create an Account";
     font-size: 18px;
     font-weight: bold;
