@@ -160,7 +160,7 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 122px;
+    height: 145px;
     margin: 0;
     margin-bottom: 18px;
 }
@@ -205,7 +205,7 @@ input:not([type="checkbox"]):not([type="radio"]):focus, select:focus {
 .workflow-create-profile {
     padding-top: 7px;
     position: relative;
-    top: -140px;
+    top: -163px;
     background-color: #fff;
 }
 
