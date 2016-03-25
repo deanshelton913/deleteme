@@ -425,9 +425,9 @@ body {
 }
 
 .workflow-create-profile .title {
-    font-size: 0;
+    /*font-size: 0;
     padding-left: 0px;
-    padding-right: 25px;
+    padding-right: 25px;*/
 }
 
 .workflow-create-profile .title:after {
@@ -474,4 +474,10 @@ body {
 
 .section-cancel {
     display: none !important;
+}
+
+/* hacks */
+.close {
+  position: fixed;
+
 }
