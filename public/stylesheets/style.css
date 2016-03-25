@@ -425,7 +425,9 @@ body {
 }
 
 .workflow-create-profile .title {
-    display:none;
+    font-size: 0;
+    padding-left: 0px;
+    padding-right: 25px;
 }
 
 .workflow-create-profile .title:after {
